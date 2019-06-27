@@ -1,1 +1,4 @@
 
+<Version: 1.01>
+/data/update.zip 
+<End of Version>
