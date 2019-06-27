@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-/data/map041.json https://raw.githubusercontent.com/amenxl/UpdaterXWBW/master/Map041.json  
+/data/map041.json https://raw.githubusercontent.com/amenxl/UpdaterXWBW/master/Map041.json
 <End of Version>
